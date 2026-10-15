@@ -1,0 +1,21 @@
+/* Cada tarjeta cuenta un recuerdo asociado a una de tus fotos. */
+export const MEMORIES = [
+  { key: 'm1', title: 'Un comienzo muy nuestro', date: 'Un recuerdo para guardar', image: '/photos/primera.webp',
+    story: 'Un abrazo, un beso y esa sensación bonita de saber que juntas todo se siente mejor.' },
+  { key: 'm2', title: 'Primer cumpleaños juntas', date: 'Un día muy especial', image: '/photos/cafeteria.webp',
+    story: 'Cualquier rincón se vuelve especial cuando puedo compartirlo contigo.' },
+  { key: 'm3', title: 'Cartagena, contigo', date: 'Frente al mar', image: '/photos/cartagena.webp',
+    story: 'El mar de fondo y tú mirándome así: no necesito nada más para que el día sea perfecto.' },
+  { key: 'm4', title: 'Una noche de Hogueras', date: 'Luces, fuego y nosotras', image: '/photos/hogueras.webp',
+    story: 'Entre las luces y el ruido de la fiesta, yo solo quería quedarme cerquita de ti.' },
+  { key: 'm5', title: 'Viaje de primer aniversario', date: 'Un momento bonito', image: '/photos/murcia.webp',
+    story: 'Gracias por dejarme compartir la vida contigo.' },
+  { key: 'm6', title: 'Nuestro picnic', date: 'Un plan sencillo y perfecto', image: '/photos/picnic.webp',
+    story: 'Compartir algo rico, robarte un beso y disfrutar de estar juntas: mi tipo de plan favorito. Y me hizo feliz verte disfrutar tanto tu cumpleaños.' },
+  { key: 'm7', title: 'Nuestro atardecer', date: 'Al final del día', image: '/photos/atardecer.webp',
+    story: 'Cuando cae el sol y me abrazas, siento que estoy exactamente donde quiero estar.' },
+  { key: 'm8', title: 'Entre atracciones y besos', date: 'Una noche para recordar', image: '/photos/atracciones.webp',
+    story: 'Una vuelta más, una risa más y otro beso contigo para guardar en el recuerdo.' },
+  { key: 'm9', title: 'Acuario en Valencia', date: 'Descubriendo lugares juntas', image: '/photos/valencia.webp',
+    story: 'Descubrir lugares nuevos es aún mejor si puedo recorrerlos de tu mano. Gracias por compartir tantas experiencias conmigo.' },
+]
